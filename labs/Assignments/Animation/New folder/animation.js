@@ -24,7 +24,7 @@ scale(mouseY /500.0)
     rect (z,140,x,a)      //bevels
     fill (255)                  //white
     rect (110,a,y,130)      //display
-    
+    //update
     //keyboard
     noStroke(0);
     fill(20)                    //black
