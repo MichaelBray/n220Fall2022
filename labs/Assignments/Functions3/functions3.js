@@ -1,3 +1,7 @@
+//Michael Bray
+//9/14/2022
+
+
 //set variable
 var res = 5
 //set up plane

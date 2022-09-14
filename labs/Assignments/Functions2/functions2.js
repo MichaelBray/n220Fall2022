@@ -1,3 +1,7 @@
+//Michael Bray
+//9/14/2022
+
+
 //varibale defined
 let noRed = (170,200,150)
 //seting up plane
