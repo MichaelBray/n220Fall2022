@@ -1,3 +1,4 @@
+//Michael Bray 2/28/2022
 
 //variables
 let tdiv = document.getElementById("sq")
